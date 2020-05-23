@@ -6,7 +6,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
 
 ## Lista Atividade Final
 
-> **Prof. **
+> Prof. 
 
 **Alunos:**
 
