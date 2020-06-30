@@ -20,7 +20,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  8.  
  9.  
  10. 
- 11.  
+ 11. Pedro Henrique Southier
  12.  
  13.  
  14.  
