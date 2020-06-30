@@ -19,7 +19,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  7.  
  8.  
  9.  
- 10. 
+ 10. Alisson Garcia da Rosa
  11. Pedro Henrique Southier
  12.  
  13.  
