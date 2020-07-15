@@ -23,7 +23,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  11. Pedro Henrique Southier
  12.  
  13.  
- 14.  
+ 14.  Ana Maria Cavasin
  15.  Camila Munzlinger
  16.  
  17.  
