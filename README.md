@@ -11,20 +11,20 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
 **Alunos:**
 
  1.  
- 2.  Marco André Babinski
+ 2. Marco André Babinski
  3.  
  4.  
- 5.  
+ 5. João Danilo Zucolotto Diedrich
  6.  
  7.  
- 8.  Bernardo Emanuel Tietz
+ 8. Bernardo Emanuel Tietz
  9.  
  10. Alisson Garcia da Rosa
  11. Pedro Henrique Southier
  12.  
- 13.  
- 14.  Ana Maria Cavasin
- 15.  Camila Munzlinger
+ 13. Gabriel Franco
+ 14. Ana Maria Cavasin
+ 15. Camila Munzlinger
  16.  
  17.  
  18.  
