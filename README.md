@@ -14,7 +14,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  2.  Marco André Babinski
  3.  
  4.  
- 5.  
+ 5.  João Danilo Zucolotto Diedrich
  6.  
  7.  
  8.  Bernardo Emanuel Tietz
